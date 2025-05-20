@@ -1,0 +1,7 @@
+__pycache__
+*/__pycache__/*
+output
+*exp_log/*
+# *.json
+*.log
+.vscode
